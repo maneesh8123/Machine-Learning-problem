@@ -1,4 +1,4 @@
-# Machine-Learning-problem-Resturent Revenue Prediction
+# Machine-Learning-problem-Resturant Revenue Prediction
 
 This is a machine learing problem to find the revenue of a resturant on the basis of given data
 
