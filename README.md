@@ -4,6 +4,8 @@ This is a machine learing problem to find the revenue of a resturant on the basi
 
 ## data source: from KAGGLE
 
+https://www.kaggle.com/c/restaurant-revenue-prediction/data
+
 ## Data fields
 
 Id : Restaurant id. 
