@@ -20,18 +20,20 @@ P1, P2 - P37: There are three categories of these obfuscated data. Demographic d
 
 Revenue: The revenue column indicates a (transformed) revenue of the restaurant in a given year and is the target of predictive analysis. Please note that the values are transformed so they don't mean real dollar values. 
 
-Language used- python
 
-life cycle of this problem-
 
-1)EDA
+## life cycle of this problem-
+
+## Language used- python
+
+## EDA
   libraries = pandas ,numpy, matplotlib,seaborn
   
-2)feature engineering-
+## feature engineering-
   techniques used - for categorical encoding by label and one-hot encoding
                   -for standardization by thorough log normal transformation and StandardScaler
 
-3)feature selection by through correlation
+## feature selection by through correlation
 
-4)model = Linear regression
+## model = Linear regression
                   
